@@ -1,0 +1,14 @@
+C:\Users\Win-0089\source\repos\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.deps.json
+C:\Users\Win-0089\source\repos\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.runtimeconfig.json
+C:\Users\Win-0089\source\repos\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.runtimeconfig.dev.json
+C:\Users\Win-0089\source\repos\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.dll
+C:\Users\Win-0089\source\repos\Employee\Employee\bin\Debug\netcoreapp2.1\Employee.pdb
+C:\Users\Win-0089\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.csprojAssemblyReference.cache
+C:\Users\Win-0089\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Win-0089\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.RazorAssemblyInfo.cache
+C:\Users\Win-0089\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.RazorAssemblyInfo.cs
+C:\Users\Win-0089\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.AssemblyInfoInputs.cache
+C:\Users\Win-0089\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.AssemblyInfo.cs
+C:\Users\Win-0089\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.RazorTargetAssemblyInfo.cache
+C:\Users\Win-0089\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.dll
+C:\Users\Win-0089\source\repos\Employee\Employee\obj\Debug\netcoreapp2.1\Employee.pdb
